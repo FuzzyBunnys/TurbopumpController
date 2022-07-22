@@ -1,12 +1,9 @@
 ## Turbopump Controller
 
-You can use the [editor on GitHub](https://github.com/FuzzyBunnys/TurbopumpController/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+So to get the whole fusor working, I need to generate a vacuum, and to generate a vauum I need some pumps. In particular I need a turbopump and a backing pump. I have both, but only the backing pump is working. The turbopump needs a controller, and those are expensive so I've decided to build my own!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The PCB
 
 ```markdown
 Syntax highlighted code block
@@ -28,7 +25,7 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### The Program
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FuzzyBunnys/TurbopumpController/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
