@@ -9,7 +9,7 @@ I've built many PCB's before, but this is the first time I've done a 4-layer boa
 
 
 ### The Program
-I wanted to use this project as an excuse to pick up another new language, [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)), I've been curious about it for awhile largely because of it's safety features. Handily a bunch of people have been doing a bunch of work to get it running on the RP 2040, which powers the Raspberry Pi Pico that I have on the PCB. I'm also really interested in using [SPARK]([https://www.adacore.com/about-spark](https://en.wikipedia.org/wiki/SPARK_(programming_language)) which is a [formal method](https://en.wikipedia.org/wiki/Formal_methods). It's a powerful tool that lets you prove properties about your program which is important if you want it to be safe and reliable. 
+I wanted to use this project as an excuse to pick up another new language, [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)), I've been curious about it for awhile largely because of it's safety features. Handily a bunch of people have been doing a bunch of work to get it running on the RP 2040, which powers the Raspberry Pi Pico that I have on the PCB. I'm also really interested in using [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language)) which is a [formal method](https://en.wikipedia.org/wiki/Formal_methods). It's a powerful tool that lets you prove properties about your program which is important if you want it to be safe and reliable. 
 ```markdown
 Syntax highlighted code block
 
