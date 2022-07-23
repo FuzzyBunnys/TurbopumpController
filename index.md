@@ -5,6 +5,12 @@ So to get the whole fusor working, I need to generate a vacuum, and to generate 
 
 ### The PCB
 
+
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### The Program
+I wanted to use this project as an excuse to pick up another new language, [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)), I've been curious about it for awhile largely because of it's safety features. Handily a bunch of people have been doing a bunch of work to get it running on the RP 2040, which powers the Raspberry Pi Pico that I have on the PCB. 
 ```markdown
 Syntax highlighted code block
 
@@ -23,12 +29,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### The Program
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FuzzyBunnys/TurbopumpController/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
