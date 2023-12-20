@@ -10,7 +10,7 @@ I've built many PCB's before, but this is the first time I've done a 4-layer boa
 #### Second Revisions
 Returning to this project after over a year away revealed some problems. My skills have continued to develop and I can see mistakes and poor practice in the schematics and PCB design. To begin, I've started to re-work the schematics for legibility. You can see the improvement in the schematic layout for the microcontroller quite quickly with the two photos below. 
 ![New Schematic](https://raw.githubusercontent.com/FuzzyBunnys/TurbopumpController/gh-pages/signal-2023-12-18-092529_002.png)  
-The New Schematic
+The New Schematic  
 ![Old Schematic](https://raw.githubusercontent.com/FuzzyBunnys/TurbopumpController/gh-pages/signal-2023-12-18-092559_002.png)  
 The Old Schematic
 ### The Program
