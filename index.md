@@ -9,9 +9,9 @@ I've built many PCB's before, but this is the first time I've done a 4-layer boa
 ![Soldered PCB](https://raw.githubusercontent.com/FuzzyBunnys/TurbopumpController/gh-pages/IMG_2115.JPG) If you want to examine the [schematics and PCB](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2FFuzzyBunnys%2FTurbopumpController%2Ftree%2Fmain%2FTurbopump%2520Controller) immediately you can use the wonderful [KiCanvas tool](https://kicanvas.org/home/) that was put together by [Stargirl](https://twitter.com/theavalkyrie). 
 #### Second Revisions
 Returning to this project after over a year away revealed some problems. My skills have continued to develop and I can see mistakes and poor practice in the schematics and PCB design. To begin, I've started to re-work the schematics for legibility. You can see the improvement in the schematic layout for the microcontroller quite quickly with the two photos below. 
-![New Schematic](https://raw.githubusercontent.com/FuzzyBunnys/TurbopumpController/gh-pages/signal-2023-12-18-092529_002.png)
+![New Schematic](https://raw.githubusercontent.com/FuzzyBunnys/TurbopumpController/gh-pages/signal-2023-12-18-092529_002.png)  
 The New Schematic
-![Old Schematic](https://raw.githubusercontent.com/FuzzyBunnys/TurbopumpController/gh-pages/signal-2023-12-18-092559_002.png)
+![Old Schematic](https://raw.githubusercontent.com/FuzzyBunnys/TurbopumpController/gh-pages/signal-2023-12-18-092559_002.png)  
 The Old Schematic
 ### The Program
 I wanted to use this project as an excuse to pick up another new language, [Ada](https://en.wikipedia.org/wiki/Ada_(programming_language)), I've been curious about it for awhile largely because of it's safety features. Handily a bunch of people have been doing a bunch of work to get it running on the RP 2040, which powers the Raspberry Pi Pico that I have on the PCB. I'm also really interested in using [SPARK](https://en.wikipedia.org/wiki/SPARK_(programming_language)) which is a [formal method](https://en.wikipedia.org/wiki/Formal_methods). It's a powerful tool that lets you prove properties about your program which is important if you want it to be safe and reliable.
