@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name TurbopumpLibrary)(type Legacy)(uri ${KIPRJMOD}/TurbopumpLibrary.lib)(options "")(descr ""))
-)
