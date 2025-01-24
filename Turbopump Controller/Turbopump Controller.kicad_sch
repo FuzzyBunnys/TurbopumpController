@@ -1,0 +1,865 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4a54c707-7b6f-4a3d-a74d-5e3526114aba")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
+	)
+	(wire
+		(pts
+			(xy 71.755 101.6) (xy 118.745 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "010d1411-6574-478c-b035-562df8e141cf")
+	)
+	(wire
+		(pts
+			(xy 93.345 88.9) (xy 93.345 66.675)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02947a37-0ffe-4f3d-b0e5-a8541e4bec34")
+	)
+	(wire
+		(pts
+			(xy 168.91 64.135) (xy 203.835 64.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08cab20d-7aee-4605-ba02-34c9da6a9857")
+	)
+	(wire
+		(pts
+			(xy 71.755 96.52) (xy 118.745 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18feda11-f66f-4548-8a56-921f4b2f8256")
+	)
+	(wire
+		(pts
+			(xy 90.805 86.36) (xy 71.755 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1dc71421-6bc6-44d2-82f7-39d9875e5df8")
+	)
+	(wire
+		(pts
+			(xy 201.295 99.06) (xy 201.295 66.675)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2427a466-e02b-4d26-9cda-138feddda097")
+	)
+	(wire
+		(pts
+			(xy 95.885 69.215) (xy 95.885 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f5ae12b-87ec-4dcc-9c42-8f4db1096ec2")
+	)
+	(wire
+		(pts
+			(xy 71.755 104.14) (xy 118.745 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3083bf43-dd78-431e-a8b7-b9202d76737b")
+	)
+	(wire
+		(pts
+			(xy 71.755 88.9) (xy 93.345 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3914ed61-0b09-452b-a6a7-5c4d2043209e")
+	)
+	(wire
+		(pts
+			(xy 128.27 64.135) (xy 90.805 64.135)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b7c6b22-bc4e-40bc-ad18-5832a0cdaefd")
+	)
+	(wire
+		(pts
+			(xy 71.755 99.06) (xy 118.745 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d0d2899-c889-4f69-99db-8e88fa4e348b")
+	)
+	(wire
+		(pts
+			(xy 203.835 64.135) (xy 203.835 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6381d8d3-e917-456d-83b0-76c44d51c873")
+	)
+	(wire
+		(pts
+			(xy 128.27 69.215) (xy 95.885 69.215)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7778f697-ce1f-4a6a-9814-80995fefdafb")
+	)
+	(wire
+		(pts
+			(xy 203.835 101.6) (xy 186.055 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92c85e40-cb8c-4b74-8b25-87d7b32a87e6")
+	)
+	(wire
+		(pts
+			(xy 71.755 91.44) (xy 95.885 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e40d6f3-e832-43d2-af4f-4633848d4b4d")
+	)
+	(wire
+		(pts
+			(xy 90.805 64.135) (xy 90.805 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6d22bce-cd3a-4e05-b15a-d78852c0e25d")
+	)
+	(wire
+		(pts
+			(xy 93.345 66.675) (xy 128.27 66.675)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b74587e0-8d6c-4969-b4a7-ceaf6d7319aa")
+	)
+	(wire
+		(pts
+			(xy 71.755 93.98) (xy 118.745 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be214276-4a51-4ab1-8fac-0660f5cf079f")
+	)
+	(wire
+		(pts
+			(xy 201.295 66.675) (xy 168.91 66.675)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e89a6a77-f882-4839-aa98-7b86f5d82abf")
+	)
+	(wire
+		(pts
+			(xy 186.055 99.06) (xy 201.295 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec3184aa-4f7b-4bc3-b434-1fd64a726e4d")
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 22.098 189.23 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "012fdd4d-ee1a-4e59-99f6-0da84d8f7572")
+		(property "Reference" "H4"
+			(at 25.146 187.9599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 25.146 190.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 22.098 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 22.098 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 22.098 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Turbopump Controller"
+				(path "/4a54c707-7b6f-4a3d-a74d-5e3526114aba"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 22.352 173.736 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "866b64d6-47ed-4a4d-a14e-12331a5ccd37")
+		(property "Reference" "H1"
+			(at 25.4 172.4659 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 25.4 175.0059 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 22.352 173.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 22.352 173.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 22.352 173.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/4a54c707-7b6f-4a3d-a74d-5e3526114aba"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 22.098 184.15 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a76f95c1-5ee0-47c2-b252-be2f8c4ab7c7")
+		(property "Reference" "H3"
+			(at 25.146 182.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 25.146 185.4199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_Via"
+			(at 22.098 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 22.098 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 22.098 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Turbopump Controller"
+				(path "/4a54c707-7b6f-4a3d-a74d-5e3526114aba"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 22.098 179.07 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dcf65b5c-49e9-44b4-b561-16f0e6d7dac3")
+		(property "Reference" "H2"
+			(at 25.146 177.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 25.146 180.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+			(at 22.098 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 22.098 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 22.098 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Turbopump Controller"
+				(path "/4a54c707-7b6f-4a3d-a74d-5e3526114aba"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 55.88)
+		(size 40.64 19.685)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c8c4a407-8e5b-468b-b9e4-0529e3531337")
+		(property "Sheetname" "Power Supply"
+			(at 128.27 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerSupply.kicad_sch"
+			(at 128.27 76.1496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LINEAR_REGULATORS" input
+			(at 168.91 64.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ec5e87fd-389f-49bf-803a-7e926ec1a082")
+		)
+		(pin "RELAY CONTROL 1" input
+			(at 128.27 64.135 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "85558922-8737-450c-95f3-a7ba030f2f0a")
+		)
+		(pin "RELAY CONTROL 2" input
+			(at 128.27 66.675 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "af42b7be-c003-4da3-b09b-c8c5a2d7a808")
+		)
+		(pin "POWER_SUPPLY" input
+			(at 168.91 66.675 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "59bb050e-d423-4308-a118-5805ec29b364")
+		)
+		(pin "VOLTAGE_MEASUREMENT" input
+			(at 128.27 69.215 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "598b5738-4be6-45b6-9205-693da7cff9d5")
+		)
+		(instances
+			(project "Turbopump Controller"
+				(path "/4a54c707-7b6f-4a3d-a74d-5e3526114aba"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 48.895 74.93)
+		(size 22.86 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d6065a19-0b79-41fb-9ebd-95029b65316d")
+		(property "Sheetname" "MCU-Pico"
+			(at 48.895 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU-Pico.kicad_sch"
+			(at 48.895 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GP16" input
+			(at 71.755 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bba45a0d-0783-4d59-b339-760c81aef800")
+		)
+		(pin "GP20" input
+			(at 71.755 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7a6a6b94-bb72-43e1-8be9-d3807f8617ba")
+		)
+		(pin "GP19" input
+			(at 71.755 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d87fb1b8-a56c-4f5f-9061-c650974cc3da")
+		)
+		(pin "GP17" input
+			(at 71.755 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9362b487-9788-481e-8721-b862b08a4ea0")
+		)
+		(pin "GP21" input
+			(at 71.755 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7b9d07ae-cf26-42fd-a8a7-0c44032c4fec")
+		)
+		(pin "GP27_ADC" input
+			(at 71.755 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9c895c65-5431-4ec3-8e0e-73dd75530bf4")
+		)
+		(pin "DAC_Output" input
+			(at 71.755 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ecd71e74-2228-4ba2-9b3b-882dd088c5c6")
+		)
+		(pin "GP26ADC" input
+			(at 71.755 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "65468f7e-04bb-43e3-9128-0760440d4107")
+		)
+		(instances
+			(project "Turbopump Controller"
+				(path "/4a54c707-7b6f-4a3d-a74d-5e3526114aba"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.745 87.63)
+		(size 67.31 27.94)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e3159fc2-e077-40b4-a7d7-38b7559f3c41")
+		(property "Sheetname" "Motor Control Circuitry"
+			(at 118.745 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MotorControlCircuitry.kicad_sch"
+			(at 118.745 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FAULT" input
+			(at 118.745 93.98 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b9a29201-1452-4a97-a287-c14e2edce903")
+		)
+		(pin "CAO_IR2130" input
+			(at 118.745 101.6 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bce58dfc-bfdc-4619-bb39-333542bf4eb4")
+		)
+		(pin "VCOin_4046" input
+			(at 118.745 99.06 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "71389ba3-5975-43c0-be26-657886e74dc9")
+		)
+		(pin "FOUT_4046" input
+			(at 118.745 96.52 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2363a819-1f6b-4c98-ad0e-1279777a24c3")
+		)
+		(pin "LINEAR_REGULATORS" input
+			(at 186.055 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bc920a33-f345-41bf-9fbd-5a76c332c27c")
+		)
+		(pin "5V_OPTOMOS" input
+			(at 118.745 104.14 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b9e22103-efe1-4d1a-9391-f95a5d107f44")
+		)
+		(pin "POWER_SUPPLY" input
+			(at 186.055 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5515323b-d3f6-42a8-a169-e953a125566a")
+		)
+		(instances
+			(project "Turbopump Controller"
+				(path "/4a54c707-7b6f-4a3d-a74d-5e3526114aba"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
