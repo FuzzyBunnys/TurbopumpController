@@ -1,0 +1,131 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4a54c707-7b6f-4a3d-a74d-5e3526114aba")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 48.895 74.93)
+		(size 22.86 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d6065a19-0b79-41fb-9ebd-95029b65316d")
+		(property "Sheetname" "MCU-Pico"
+			(at 48.895 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU-Pico.kicad_sch"
+			(at 48.895 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "GP16" input
+			(at 71.755 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "bba45a0d-0783-4d59-b339-760c81aef800")
+		)
+		(pin "GP20" input
+			(at 71.755 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7a6a6b94-bb72-43e1-8be9-d3807f8617ba")
+		)
+		(pin "GP19" input
+			(at 71.755 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "d87fb1b8-a56c-4f5f-9061-c650974cc3da")
+		)
+		(pin "GP17" input
+			(at 71.755 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9362b487-9788-481e-8721-b862b08a4ea0")
+		)
+		(pin "GP21" input
+			(at 71.755 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "7b9d07ae-cf26-42fd-a8a7-0c44032c4fec")
+		)
+		(pin "GP27_ADC" input
+			(at 71.755 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "9c895c65-5431-4ec3-8e0e-73dd75530bf4")
+		)
+		(pin "DAC_Output" input
+			(at 71.755 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ecd71e74-2228-4ba2-9b3b-882dd088c5c6")
+		)
+		(pin "GP26ADC" input
+			(at 71.755 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "65468f7e-04bb-43e3-9128-0760440d4107")
+		)
+		(instances
+			(project "Turbopump Controller"
+				(path "/4a54c707-7b6f-4a3d-a74d-5e3526114aba"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

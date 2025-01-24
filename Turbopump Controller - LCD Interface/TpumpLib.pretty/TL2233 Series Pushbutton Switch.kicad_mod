@@ -1,0 +1,142 @@
+(footprint "TL2233 Series Pushbutton Switch"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.01 -5.7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c4a14ed5-c0e7-485f-b029-96a8df7180b0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "TL2233 Series Pushbutton Switch"
+		(at 0.03 6.04 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4a6f2ca3-0d17-45df-a180-0befcf9f3b49")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0.23 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13bcd453-2a66-4bc1-8dbd-a30c6d198571")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0.23 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6d60818-9b38-45ae-97a0-61dee0e39c43")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0.23 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7af9a283-df2a-4731-92de-da0ad208f903")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -5.01 -2.925)
+		(end 4.89 2.945)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "1ffae943-c0a5-4bca-8eb0-738f4f175b61")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.03 4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b5a057c6-6f61-4874-a323-e740e370d302")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -3.36 -1.99)
+		(size 2.3 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "b41a9f6f-d213-4948-8a4e-69af264b43df")
+	)
+	(pad "2" smd rect
+		(at -3.36 0.01)
+		(size 2.3 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "0122f3c1-7917-4c32-aa72-c79ca24b0151")
+	)
+	(pad "3" smd rect
+		(at -3.36 2.01)
+		(size 2.3 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "f25544cd-288d-413e-92ad-1b4d65356e26")
+	)
+	(pad "4" smd rect
+		(at 3.23 -1.99)
+		(size 2.3 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "f7523b27-16ee-426b-92fe-e2e365a43029")
+	)
+	(pad "5" smd rect
+		(at 3.24 0.01)
+		(size 2.3 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "197a3ccd-b117-47ce-b0df-a0d0b048e2cb")
+	)
+	(pad "6" smd rect
+		(at 3.24 2.01)
+		(size 2.3 1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "2a5dfb6b-a434-4cee-9386-88d4503ec555")
+	)
+	(group ""
+		(uuid "41cec5ce-741f-4c73-b0cb-a679e16b41b2")
+		(members "0122f3c1-7917-4c32-aa72-c79ca24b0151" "197a3ccd-b117-47ce-b0df-a0d0b048e2cb"
+			"2a5dfb6b-a434-4cee-9386-88d4503ec555" "b41a9f6f-d213-4948-8a4e-69af264b43df"
+			"f25544cd-288d-413e-92ad-1b4d65356e26" "f7523b27-16ee-426b-92fe-e2e365a43029"
+		)
+	)
+)

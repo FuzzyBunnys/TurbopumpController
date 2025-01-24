@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "C:/Users/fuzzy/Documents/Fusor/Fusor Sensors/Turbopump Controller Complete/RP_Silicon_KiCad-main/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "Sparkfun_Displays")(type "KiCad")(uri "C:/Users/fuzzy/Documents/Fusor/Fusor Sensors/Turbopump Controller Complete/SFFootprints/Displays.pretty")(options "")(descr ""))
+  (lib (name "TpumpLib")(type "KiCad")(uri "${KIPRJMOD}/TpumpLib.pretty")(options "")(descr ""))
+)
