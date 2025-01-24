@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP STGD4M65DF2
-D 4A, 620V, IGBT
-K Trench Gate field-stop IGBT Power Transistor
-F https://www.st.com/content/ccc/resource/technical/document/datasheet/group0/98/17/7a/0f/2b/63/45/e3/DM00249139/files/DM00249139.pdf/jcr:content/translations/en.DM00249139.pdf
-$ENDCMP
-#
-#End Doc Library
